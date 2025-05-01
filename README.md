@@ -25,7 +25,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/anurag_yadav_04)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/i_am_anurag_yadav_)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/anuragyadavcode4)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode)](https://leetcode.com/anuragyadav4)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode)](https://leetcode.com/anuragyadavakmfeaow4)
 [![GFG](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/officialanurag)
 
 ---
